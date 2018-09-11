@@ -2,14 +2,10 @@
 These are assignments of Data Structure course
 
 
-In part1 implemented: 
-  
-  Circle Linked List
-  
-  Coverter from infix expression to postfix
-  
-  Evaluation of postifx expression
-
+In part1 implemented:  
+  * Circle Linked List
+  * Coverter from infix expression to postfix
+  * Evaluation of postifx expression
 
 In part2 implemented:
   
